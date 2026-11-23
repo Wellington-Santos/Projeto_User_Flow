@@ -1,21 +1,3 @@
-# from app.database.connection import (
-#     initialize_database,
-#     DATABASE_PATH
-# )
-
-# def main():
-#     # Iniciando a aplicação
-#     print("Iniciando a UserFlow...")
-
-#     # Inicializando o banco de dados
-#     initialize_database()
-
-#     print(f"Banco de dados localizado em: {DATABASE_PATH}")
-#     print("Banco de dados inicializado com sucesso!")
-
-# if __name__ == "__main__":
-#     main()
-
 
 import tkinter as tk
 
